@@ -237,7 +237,7 @@ body {
   .feature__text {
     font-size: 1.7rem; }
 
-.story__pictures {
+.story__picture {
   background-color: #c69963;
   grid-column: full-start / col-end 4;
   background-image: linear-gradient(rgba(198, 153, 99, 0.5), rgba(198, 153, 99, 0.5)), url(../img/back.jpg);
@@ -247,7 +247,7 @@ body {
   grid-template-columns: repeat(6, 1fr);
   align-items: center; }
   @media only screen and (max-width: 50em) {
-    .story__pictures {
+    .story__picture {
       grid-column: 1 / -1;
       padding: 6rem; } }
 
