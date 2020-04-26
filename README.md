@@ -1,2 +1,6 @@
 # Nexter-Theme
-Theme build on CSS Grid and Flexbox
+Real State House Sell Theme build on CSS Grid.
+
+## Preview Image
+
+
